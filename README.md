@@ -15,3 +15,4 @@
 
 Acesse o aplicativo através [deste link](https://filipecarbonera-carteira-ativos-app-zh3htj.streamlit.app/)!
 
+O código do aplicativo pode ser [acessado aqui](app.py).
