@@ -18,7 +18,7 @@ Das **Tecnologias utilizadas**, temos:
 
 ![Análise de Carteira de Ativos](https://github.com/filipecarbonera/Carteira_Ativos/blob/main/imagem.png)
 
-[Clique aqui para usar o app](https://filipecarbonera-carteira-ativos-app-zh3htj.streamlit.app/)
+**[Clique aqui para usar o app!](https://filipecarbonera-carteira-ativos-app-zh3htj.streamlit.app/)**
 
 Este projeto é baseado em parte pelo [artigo](https://opencodecom.net/post/2021-08-25-comparacao-de-carteira-com-ibov-usando-python/) "Comparação de carteira com IBOV usando Python".
 
